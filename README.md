@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashreen121 
 - 👀 Interested in building web applications fast in Vue.js
 - 🌱 Currently learning Vue.js + Typescript
-- 💞️ Looking to collaborate on projects focusing around sustainbility and networking
+- 💞️ Looking to collaborate on projects focusing around sustainbility, learning and networking
 - 📫 How to reach me: ashreen.kaur8@gmail.com
 
 <!---
