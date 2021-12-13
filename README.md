@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashreen121 
-- 👀 Interested in building web applications fast
+- 👀 Interested in applying software engineering skills in industry projects
 - 🌱 Currently learning React.js
-- 💞️ Looking to collaborate on projects focusing around sustainbility and learning
+- 💞️ Looking to collaborate on projects focusing around sustainability
 - 📫 How to reach me: ashreen.kaur8@gmail.com
 
 <!---
